@@ -1,7 +1,7 @@
 # 🚀 UC Berkeley REYES 2026 Summer Program
 
 <p align="center">
-  <img src="reyes_webpage_banner_2026.jpg" alt="REYES Banner" width="100%">
+  <img src="https://github.com/naman-dixit00/REYES-UC-Berkeley-/blob/main/Meta%20Data/reyes_webpage_banner_2026.png" alt="REYES Banner" width="100%">
 </p>
 
 <p align="center">
