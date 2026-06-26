@@ -52,7 +52,49 @@ An advanced, highly competitive 4-to-8-week remote research experience pairing s
 ## 📂 Repository Structure
 
 ```directory
-├── 2026_python_flyer_v2.pdf     # Official Python4Physics course flyer & QR code
-├── reyes_webpage_banner_2026.jpg # Official program banner image
-├── scripts/                      # [Optional] Place your Python4Physics practice scripts here
-└── README.md                     # This documentation file
+REYES-UC-Berkeley-/
+├── README.md
+├── 2026_python_flyer_v2.pdf
+├── reyes_webpage_banner_2026.jpg
+│
+├── docs/
+│   ├── program_overview.md
+│   ├── tracks/
+│   │   ├── general_registration.md
+│   │   ├── python4physics.md
+│   │   └── research_mentorship.md
+│   └── references.md
+│
+├── Projects/
+│   ├── Project 1/
+│   │   ├── Code/
+│   │   │   ├── main.py
+│   │   │   ├── notebooks/
+│   │   │   ├── utils/
+│   │   │   └── examples/
+│   │   ├── data/
+│   │   └── README.md
+│   │
+│   ├── Project 2/
+│   │   ├── Code/
+│   │   ├── notebooks/
+│   │   └── README.md
+│   │
+│   └── Project 3/
+│       ├── Code/
+│       └── README.md
+│
+├── scripts/
+│   ├── python4physics/
+│   │   ├── week1.py
+│   │   ├── week2.py
+│   │   └── visualization.py
+│   └── helpers/
+│       ├── data_loader.py
+│       └── plotting_utils.py
+│
+├── assets/
+│   ├── images/
+│   └── banners/
+│
+└── requirements.txt
