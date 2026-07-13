@@ -1,4 +1,4 @@
-# 🚀 UC Berkeley REYES 2026 Summer Program
+# UC Berkeley REYES 2026 Summer Program
 
 <p align="center">
   <img src="https://github.com/naman-dixit00/REYES-UC-Berkeley-/blob/main/Meta%20Data/reyes_webpage_banner_2026.png" alt="REYES Banner" width="100%">
@@ -11,47 +11,38 @@
   <img src="https://img.shields.io/badge/Language-Python%203.x-informational?style=flat-square&logo=python" alt="Python">
 </p>
 
----
+The **Remote Experience for Young Engineers and Scientists (REYES)** is a computational and physical sciences initiative co-hosted by **UC Berkeley Physics** and **Old Dominion University**. The platform scales global STEM-H literacy by connecting international student cohorts with leading research groups and technological innovators.
 
-## 📖 Overview
+* **Timeline:** June 15, 2026 – July 10, 2026
+* **Access:** 100% Free • Open to the global community
+* **Format:** Hybrid (In-person cohort at UC Berkeley Campus / Global live-stream via Zoom)
 
-The **Remote Experience for Young Engineers and Scientists (REYES)** is a free, virtual summer program co-hosted by **UC Berkeley Physics** and **Old Dominion University**. The program aims to increase global STEM-H (Science, Technology, Engineering, Math, and Health) literacy by connecting students worldwide with leading scientists and tech instructors. 
+## ⚡ Program Tracks
 
-To date, more than **11,000 learners across 135 countries** have participated in REYES!
+The curriculum spans three core avenues of execution. Participants can navigate individual pipelines or engage across the entire stack.
 
-* 📅 **Program Duration:** June 15, 2026 – July 10, 2026
-* 💸 **Cost:** 100% Free and open to the public
-* 🌐 **Format:** Hybrid (In-person on UC Berkeley Campus for a small cohort / Globally streamed via Zoom)
+### ── 01. General Registration
+* **Core Focus:** Live-streamed keynotes, panels, and virtual laboratory infrastructure deep-dives.
+* **Speakers:** Faculty from NASA, MIT, UC Berkeley, and elite international labs.
+* **Interaction:** Direct textual Q&A routing with research speakers.
 
----
+### ── 02. Python4Physics `masterclass`
+An application-driven computational track engineering numerical frameworks for physical system modeling.
+* **Duration:** 4-Week Core Course (Commencing **June 15, 2026**)
+* **Prerequisites:** Foundational algebra. Zero baseline programming required.
+* **Curriculum:**
+  * Numerical evaluation of mathematical equations
+  * Scientific data analysis and visualization paradigms
+  * Algorithmic modeling of dynamic physical systems
 
-## 🛠️ Program Tracks
+### ── 03. STEM Research Mentorships `selective`
+An advanced, selective pipeline pairing high-potential students directly with international research faculty.
+* **Domains:** Artificial Intelligence, Nuclear Physics, Astronomy, and Quantum Mechanics.
+* **Structure:** Weekly technical syncs, hands-on production tasks, and co-authoring scientific workflows.
 
-The program is structured into **three distinct components**. You can choose to register for a single track or participate in all three based on your interests:
+## 📂 Repository Architecture
 
-### 1. General Registration (Webinars & Public Lectures)
-* **What it is:** A series of live-streamed keynote lectures, career panels, and virtual laboratory tours.
-* **Featured Hosts:** Scientists from NASA, MIT, UC Berkeley, and other world-class institutions.
-* **Engagement:** Attend live sessions and engage with speakers via the Q&A text chat.
-
-### 2. Python4Physics (Coding Masterclass) 🐍
-A beginner-friendly programming track designed to equip students with the tools to write simple code to solve physics problems numerically.
-* **Duration:** 4-Week Course (Starting **June 15, 2026**)
-* **Prerequisites:** No prior programming or advanced physics experience required! (Basic algebra recommended).
-* **Curriculum:** * Solving mathematical equations numerically
-    * Data analysis and visualization
-    * Modeling physical systems
-
-### 3. STEM Research Mentorships (Selective Track)
-An advanced, highly competitive 4-to-8-week remote research experience pairing students directly with international professors and research faculty.
-* **Research Areas:** Artificial Intelligence, Nuclear Physics, Astronomy, and more.
-* **Format:** Weekly online syncs, hands-on tasks, and authentic scientific research.
-
----
-
-## 📂 Repository Structure
-
-```directory
+<pre style="max-height: 320px; overflow-y: auto; background: #1c1c1c; color: #e0e0e0; padding: 14px; border-radius: 6px; font-family: monospace; font-size: 13px; line-height: 1.5;">
 REYES-UC-Berkeley-/
 ├── README.md
 ├── 2026_python_flyer_v2.pdf
@@ -59,42 +50,42 @@ REYES-UC-Berkeley-/
 │
 ├── docs/
 │   ├── program_overview.md
-│   ├── tracks/
-│   │   ├── general_registration.md
-│   │   ├── python4physics.md
-│   │   └── research_mentorship.md
-│   └── references.md
+│   └── tracks/
+│       ├── general_registration.md
+│       ├── python4physics.md
+│       └── research_mentorship.md
 │
 ├── Projects/
 │   ├── Project 1/
 │   │   ├── Code/
 │   │   │   ├── main.py
 │   │   │   ├── notebooks/
-│   │   │   ├── utils/
-│   │   │   └── examples/
-│   │   ├── data/
-│   │   └── README.md
+│   │   │   └── utils/
+│   │   └── data/
 │   │
 │   ├── Project 2/
-│   │   ├── Code/
-│   │   ├── notebooks/
-│   │   └── README.md
+│   │   └── Code/
 │   │
 │   └── Project 3/
-│       ├── Code/
-│       └── README.md
+│       └── Code/
 │
 ├── scripts/
 │   ├── python4physics/
 │   │   ├── week1.py
-│   │   ├── week2.py
 │   │   └── visualization.py
 │   └── helpers/
 │       ├── data_loader.py
 │       └── plotting_utils.py
 │
-├── assets/
-│   ├── images/
-│   └── banners/
-│
 └── requirements.txt
+</pre>
+
+## ⚖️ Citation & Disclaimer
+
+> [!NOTE]
+> **Proprietary Rights Notice**  
+> All core lecture frameworks, theoretical materials, and original programmatic resources are the exclusive intellectual property of the **University of California, Berkeley (UC Berkeley) REYES Program** and its collaborating academic institutions.
+
+* **Scope of Work:** This repository serves solely as an archive of my independent research implementations, technical problem sets, and engineered numerical solutions built on top of the program's foundational notebooks.
+* **Intended Use:** This source code is structured strictly for personal documentation, academic evaluation, and reference purposes. 
+* **Distribution Policy:** There is absolutely no intent to redistribute, share, modify for public reuse, or commercially exploit/resell any copyrighted elements of the UC Berkeley REYES curriculum.
